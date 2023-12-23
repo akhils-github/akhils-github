@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullStack developer from India,Kerala</h3>
 <!-- <img align="right" alt="coding" width="400" src=""> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-s-git&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-s-git" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-s-git&label=Profile%200views&color=0e75b6&style=flat" alt="akhil-s-git" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-s-git" alt="akhil-s-git" /></a> </p>
 
