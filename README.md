@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript,Python,Django NodeJs, Flask,ExpressJs and React**
 
-- 📫 How to reach me **akhilsoman203@gmail.com**
+- 📫 How to reach me **akhilsidk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
