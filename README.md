@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhils-github&label=Profile%200views&color=0e75b6&style=flat" alt="akhils-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhils-github" alt="akhils-github" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=akhils-github"><img src="https://github-profile-trophy.vercel.app/?username=akhils-github" alt="akhils-github" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript,Python,Django,Flask,nodejs,React,Mongodb,Mysql and Postgress**
 
